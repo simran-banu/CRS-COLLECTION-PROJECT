@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.gqt.entity;
+package com.gqt.crs.entity;
 
 /**
  * @author Simran
